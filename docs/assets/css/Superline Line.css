@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'Superline Line';
+	src: url(../../assets/fonts/Superline-Line.woff2) format('woff2'),
+	url(../../assets/fonts/Superline-Line.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Superline Line';
+	src: url(../../assets/fonts/Superline-LineItalic.woff2) format('woff2'),
+	url(../../assets/fonts/Superline-LineItalic.woff) format('woff');
+	font-weight: bold;
+	font-style: italic;
+}
