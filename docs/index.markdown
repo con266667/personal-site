@@ -17,13 +17,12 @@ layout: home
     .posts-grid {
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-        grid-gap: 20px;
+        grid-gap: 25px;
         padding: 50px 50px;
     }
 
     .post-card {
         padding: 12px;
-        margin-bottom: 10px;
         border-radius: 12px;
         background-color: #f5f5f5;
         text-decoration: none;

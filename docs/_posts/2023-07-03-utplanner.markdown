@@ -2,7 +2,6 @@
 layout: post
 title: "UTPlanner"
 date: 2023-07-03 20:57:56 -0400
-categories: jekyll update
 image: /assets/images/utplanner.png
 ---
 
